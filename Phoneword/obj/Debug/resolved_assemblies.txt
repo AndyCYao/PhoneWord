@@ -1,0 +1,7 @@
+C:\Users\andy.yao\Desktop\Phoneword\Phoneword\obj\Debug\assemblies\Phoneword.dll
+C:\Users\andy.yao\Desktop\Phoneword\Phoneword\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\andy.yao\Desktop\Phoneword\Phoneword\obj\Debug\assemblies\mscorlib.dll
+C:\Users\andy.yao\Desktop\Phoneword\Phoneword\obj\Debug\assemblies\System.Core.dll
+C:\Users\andy.yao\Desktop\Phoneword\Phoneword\obj\Debug\assemblies\System.dll
+C:\Users\andy.yao\Desktop\Phoneword\Phoneword\obj\Debug\assemblies\System.Xml.dll
+C:\Users\andy.yao\Desktop\Phoneword\Phoneword\obj\Debug\assemblies\System.Xml.Linq.dll
